@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-juego-chido",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://dumbidymb.github.io/my-game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
